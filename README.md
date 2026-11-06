@@ -1,6 +1,6 @@
-# Research for Factory
+# Agentic Research System
 
-A starting point for research and reverse-engineering workflows using [Factory](https://github.com/arcitai/factory).
+A starting point for research and reverse-engineering workflows using [Agentic Systems](https://github.com/arcitai/agentic-systems).
 
 ## Status
 
@@ -14,9 +14,9 @@ Frame a question, investigate the available material, review the evidence and pr
 - **Work:** framing, investigation, separate review and recommendations supported by sources.
 - **Routines:** source reviews and follow-up on agreed questions, with new findings brought back for a decision.
 
-Factory provides the shared foundation and agent orchestration. This module will describe the specialist workflow; implementation and integrations are still to be developed.
+Agentic Systems provides the shared foundation and agent orchestration. This module will describe the specialist workflow; implementation and integrations are still to be developed.
 
-[Explore Factory](https://arcitai.com/#factory-visual) · [Factory source](https://github.com/arcitai/factory)
+[Explore Agentic Systems](https://arcitai.com/#agentic-system-visual) · [Agentic Systems source](https://github.com/arcitai/agentic-systems)
 
 ## Licence
 
